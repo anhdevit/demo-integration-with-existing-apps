@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:7:5-78
+12-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:7:22-75
+13
+14    <application
+14-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:8:5-31:19
+15        android:allowBackup="true"
+15-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] /Users/anh.nguyen25/.gradle/caches/transforms-3/ab73779051ab2b62cf1b28f0270ea9c7/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.MyApplication"
+24-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:14:9-51
+25        android:usesCleartextTraffic="true" >
+25-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:15:9-44
+26        <activity android:name="com.example.myapplication.MainActivity" >
+26-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:18:9-24:20
+26-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:18:19-47
+27            <intent-filter>
+27-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:19:13-23:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:20:17-69
+28-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:22:17-77
+30-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:22:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+33-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:25:9-86
+33-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:25:19-83
+34        <activity
+34-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:26:9-30:20
+35            android:name="com.example.myapplication.MyReactActivity"
+35-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:27:13-44
+36            android:label="@string/app_name"
+36-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:28:13-45
+37            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+37-->/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/AndroidManifest.xml:29:13-69
+38        </activity>
+39    </application>
+40
+41</manifest>

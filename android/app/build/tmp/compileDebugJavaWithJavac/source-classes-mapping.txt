@@ -1,0 +1,20 @@
+com/example/myapplication/databinding/ContentReactRootViewBinding.java
+ com.example.myapplication.databinding.ContentReactRootViewBinding
+com/example/myapplication/databinding/FragmentFirstBinding.java
+ com.example.myapplication.databinding.FragmentFirstBinding
+com/example/myapplication/databinding/FragmentSecondBinding.java
+ com.example.myapplication.databinding.FragmentSecondBinding
+com/example/myapplication/databinding/ActivityReactRootViewBinding.java
+ com.example.myapplication.databinding.ActivityReactRootViewBinding
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/databinding/ActivityMainBinding.java
+ com.example.myapplication.databinding.ActivityMainBinding
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+com/example/myapplication/databinding/ActivityMyReactBinding.java
+ com.example.myapplication.databinding.ActivityMyReactBinding
+com/example/myapplication/MyReactActivity.java
+ com.example.myapplication.MyReactActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

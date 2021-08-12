@@ -1,0 +1,16 @@
+#Thu Aug 12 16:22:37 ICT 2021
+path.4=5/classes.dex
+path.3=2/classes.dex
+path.2=14/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+base.3=/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.2=/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.1=/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

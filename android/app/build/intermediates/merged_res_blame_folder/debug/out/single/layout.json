@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_react_root_view.xml",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/activity_react_root_view.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_react_root_view.xml",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/content_react_root_view.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_my_react.xml",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/activity_my_react.xml"
+    }
+]

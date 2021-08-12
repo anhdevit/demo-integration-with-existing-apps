@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/layout_activity_react_root_view.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/activity_react_root_view.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_close.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_close.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/layout_fragment_first.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/layout_activity_my_react.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/activity_my_react.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/raw/app.json"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/generated/res/react/debug/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/layout_content_react_root_view.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/content_react_root_view.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/layout_fragment_second.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/anh.nguyen25/Desktop/DemoIntergrationWithExitApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
